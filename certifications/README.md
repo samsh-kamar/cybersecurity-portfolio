@@ -3,6 +3,7 @@
 ## Status: In Progress (2/8 Courses Completed)
 
 ### 1. Foundations of Cybersecurity - Completed
+- Credential ID: Z31U3YLLPT7H
 - Learned CIA Triad - Confidentiality, Integrity, Availability
 - Learned security frameworks - NIST CSF, NIST RMF
 - Learned role of SOC analyst and common security tools

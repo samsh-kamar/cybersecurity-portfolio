@@ -40,7 +40,8 @@ Used SQL with `WHERE`, `AND`, and `OR` to filter suspicious login attempts like 
 ## 🎓 Certifications
 
 - Google Cybersecurity Professional Certificate - **In Progress** (2/8 courses completed)
-- Google Python - Completed
+- Foundations of Cybersecurity (Google) - Completed - Credential ID: Z31U3YLLPT7H
+- Crash Course on Python (Google) - Completed - Credential ID: FZN2TALBCNU2
 
 Details: [/certifications](./certifications)
 
