@@ -33,7 +33,9 @@ The audit covers Botium Toys' security posture, assessed against the **NIST Cybe
 
 ## Framework Reference
 
-NIST CSF functions: Identify, Protect, Detect, Respond, Recover. The findings above mainly fall under **Protect** (access control, encryption, password policy) and **Recover** (disaster recovery and backups).
+Framework: NIST CSF 2.0 - Govern, Identify, Protect, Detect, Respond, Recover
+
+The findings above mainly fall under **Protect** (access control, encryption, password policy) and **Recover** (disaster recovery and backups).
 
 ## Takeaways
 

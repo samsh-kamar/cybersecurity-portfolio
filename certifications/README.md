@@ -15,4 +15,14 @@
 - Key takeaway: This course helped me complete my Botium Toys Audit.
 
 ### 3. Connect and Protect: Networks and Network Security - In Progress
-- Currently learning...
+- Topics covered so far: OSI Model and TCP/IP Model, DNS and how domains resolve, Firewalls and network segmentation
+- Currently learning: VPN, network protocols and common network attacks
+- Key takeaway so far: Most attacks start at the network level, so understanding networks is the base of cybersecurity.
+
+### Other Certifications
+
+**Crash Course on Python - Google - Completed**
+- Credential ID: FZN2TALBCNU2
+- Issuer: Google, Issued: Nov 2026
+- Skills: Python, Computer Programming
+- Summary: Learned Python basics - data types, loops, functions, and automation scripts. This helps me write security tools and labs.
