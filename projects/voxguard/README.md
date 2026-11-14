@@ -11,12 +11,12 @@ It helps citizens submit grievances and detects duplicate complaints so police c
 - Grievance intake form / prototype
 - Duplicate detection logic to find similar complaints
 - Basic database to store complaints
-- Tests: 17 tests written for review corrections and duplicate ID bug fix
+- Tests written for review corrections and duplicate ID bug fix
 
 ## Tech Used
-- Python - app.py in main repo
+- Python - app.py in the private repo
 - Folders: /src, /data, /docs, /tests
-- 13 commits on main branch
+- Multiple commits on main branch
 
 ## Why Code Is Not Here
 Source code is in a separate Private repo: github.com/samsh-kamar/voxguard
@@ -27,3 +27,4 @@ It is kept Private as per Bihar Police Hackathon rules. I cannot make it public.
 - How to fix duplicate ID bugs
 - How to write tests for a prototype
 - How to handle public grievance data responsibly
+- All data used in this project is dummy / sample data. No real citizen grievance data is used.
