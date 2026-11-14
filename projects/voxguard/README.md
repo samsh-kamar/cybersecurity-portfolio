@@ -1,48 +1,29 @@
-# VoxGuard - Voice-Based Security Assistant
+# VoxGuard - Jan-Sahayak PS-04
 
-## Status: In Development
+## Status: Private Repo - Bihar Police Cyber Hackathon
 
-## What It Does
-VoxGuard is a Python-based voice-controlled assistant focused on security tasks. The idea is to let a user control basic security actions using voice commands, hands-free.
+## What It Is
+VoxGuard is a Public Grievance Intake Prototype built for Bihar Police Cyber Hackathon, Problem Statement PS-04 Jan-Sahayak.
 
-Current features I am building:
-- Voice command to lock the system
-- Voice command to check system status
-- Voice command to open security tools
-- Voice alert when a command is recognized
+It helps citizens submit grievances and detects duplicate complaints so police can avoid repeated work on the same issue.
+
+## What I Built
+- Grievance intake form / prototype
+- Duplicate detection logic to find similar complaints
+- Basic database to store complaints
+- Tests: 17 tests written for review corrections and duplicate ID bug fix
 
 ## Tech Used
-- Language: Python
-- Libraries: SpeechRecognition, pyttsx3, os, datetime
-- Platform: Windows / Linux
+- Python - app.py in main repo
+- Folders: /src, /data, /docs, /tests
+- 13 commits on main branch
 
-## How To Run
-1. Clone this repo
-2. Install requirements:
-   ```bash
-   pip install SpeechRecognition pyttsx3 PyAudio
-   ```
-3. Run:
-   ```bash
-   python voxguard.py
-   ```
-4. Say "Hey VoxGuard" and give a command like "lock system" or "system status"
+## Why Code Is Not Here
+Source code is in a separate Private repo: github.com/samsh-kamar/voxguard
+It is kept Private as per Bihar Police Hackathon rules. I cannot make it public.
 
-## Current Limitations - Honest Note
-- Works best in a quiet room, background noise affects accuracy
-- Only supports English commands right now
-- No real threat detection yet, it is a voice automation prototype
-- Needs internet for Google Speech Recognition API
-
-## What I Am Learning From This
-- How voice recognition works in Python
-- How to handle errors when voice is not recognized
-- How to map voice commands to system actions securely
-
-## Future Plan
-- Add offline voice recognition
-- Add Hindi voice commands
-- Add a simple log file for every voice command for audit purpose
-
-## Demo
-Demo GIF will be added once the stable version is ready.
+## What I Learned
+- How to build a real hackathon MVP under time pressure
+- How to fix duplicate ID bugs
+- How to write tests for a prototype
+- How to handle public grievance data responsibly

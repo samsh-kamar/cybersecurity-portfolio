@@ -15,10 +15,10 @@ I am a first-year cybersecurity student focused on defensive security, SOC opera
 
 ## 📁 Projects
 
-### 1. VoxGuard - Voice-Based Security Assistant
-Python-based voice-controlled security tool for hands-free threat alerting and automation.
+### 1. VoxGuard - Jan-Sahayak PS-04
+Public grievance intake prototype with duplicate detection - Built for Bihar Police Cyber Hackathon (Private Repo)
 
-- Folder: [/projects](./projects)
+- Overview: [/projects/voxguard](./projects/voxguard/README.md)
 
 ### 2. Botium Toys - Internal Security Audit
 Conducted a full internal security audit for a fictional toy company using NIST CSF.
@@ -30,12 +30,12 @@ Conducted a full internal security audit for a fictional toy company using NIST 
 ### 3. Linux File Permissions Lab
 Used `chmod`, `chown`, and `ls -la` to secure files and explained how misconfigured permissions cause privilege escalation.
 
-- Folder: [/labs](./labs)
+- Write-up: [/labs/linux-file-permissions.md](./labs/linux-file-permissions.md)
 
 ### 4. SQL Filtering for SOC Analysis
 Used SQL with `WHERE`, `AND`, and `OR` to filter suspicious login attempts like a SOC analyst.
 
-- Folder: [/labs](./labs)
+- Write-up: [/labs/sql-filtering-lab.md](./labs/sql-filtering-lab.md)
 
 ## 🎓 Certifications
 
