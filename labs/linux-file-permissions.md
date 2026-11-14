@@ -19,6 +19,6 @@ ls -l
 - Least Privilege in Linux means: give only the permission that is needed, nothing extra
 
 ## Why It Matters for SOC Analyst
-In a real SOC job, we check file permissions daily. A misconfigured permission is one of the most common reasons for a data breach.
+SOC analysts may encounter permission misconfigurations during investigations and audits. A misconfigured permission is a common contributor to privilege escalation and unauthorized access.
 
 ## Status: Completed in my Ubuntu VM
