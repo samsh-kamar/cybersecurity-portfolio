@@ -51,7 +51,7 @@ All labs are documented in the [/labs](./labs) folder.
 ## 📫 Contact
 
 - GitHub: [samsh-kamar](https://github.com/samsh-kamar)
-- LinkedIn: <!-- TODO: add LinkedIn profile link -->
+- LinkedIn: [Samsh Kamar](https://www.linkedin.com/in/samsh-kamar-158688380)
 - Location: Ranchi, Jharkhand, India
 
 ## 🗂️ Repository Structure
