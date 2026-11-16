@@ -4,6 +4,9 @@
 
 ### 1. Foundations of Cybersecurity - Completed
 - Credential ID: Z31U3YLLPT7H
+- Issuer: Google, Issued: Nov 2026
+- Verify: https://coursera.org/verify/Z31U3YLLPT7H
+- LinkedIn verification: Added to LinkedIn Licenses & Certifications
 - Learned CIA Triad - Confidentiality, Integrity, Availability
 - Learned security frameworks - NIST CSF, NIST RMF
 - Learned role of SOC analyst and common security tools
@@ -13,7 +16,7 @@
 - Credential ID: I1NEB761VC9S
 - Issuer: Google, Issued: Nov 2026
 - Verify: https://coursera.org/verify/I1NEB761VC9S
-- LinkedIn verification: To be added to LinkedIn Licenses & Certifications
+- LinkedIn verification: Added to LinkedIn Licenses & Certifications
 - Learned risk management, threat, vulnerability, asset
 - Learned NIST CSF functions - Govern, Identify, Protect, Detect, Respond, Recover
 - Learned how to create a security audit checklist
@@ -29,5 +32,7 @@
 **Crash Course on Python - Google - Completed**
 - Credential ID: FZN2TALBCNU2
 - Issuer: Google, Issued: Nov 2026
+- Verify: https://coursera.org/verify/FZN2TALBCNU2
+- LinkedIn verification: Added to LinkedIn Licenses & Certifications
 - Skills: Python, Computer Programming
 - Summary: Learned Python basics - data types, loops, functions, and automation scripts. This helps me write security tools and labs.
