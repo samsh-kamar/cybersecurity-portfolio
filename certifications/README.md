@@ -10,6 +10,10 @@
 - Key takeaway: Security is about protecting people and data, not just tools.
 
 ### 2. Play It Safe: Manage Security Risks - Completed
+- Credential ID: I1NEB761VC9S
+- Issuer: Google, Issued: Nov 2026
+- Verify: https://coursera.org/verify/I1NEB761VC9S
+- LinkedIn verification: To be added to LinkedIn Licenses & Certifications
 - Learned risk management, threat, vulnerability, asset
 - Learned NIST CSF functions - Govern, Identify, Protect, Detect, Respond, Recover
 - Learned how to create a security audit checklist
