@@ -50,6 +50,8 @@ Details: [/certifications](./certifications)
 
 All labs are documented in the [/labs](./labs) folder.
 
+- [Linux File Permissions Lab](labs/linux-file-permissions.md) - Securing files with `chmod` and `chown`, and how misconfigured permissions lead to privilege escalation
+- [SQL Filtering for SOC Analysis](labs/sql-filtering-lab.md) - Filtering suspicious login attempts with SQL
 - [DNS + ICMP Traffic Analysis](labs/dns-icmp-analysis.md) - Troubleshooting DNS failure with packet capture
 
 ## 📫 Contact
