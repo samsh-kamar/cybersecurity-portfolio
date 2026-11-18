@@ -7,6 +7,7 @@ Scenario from the Google Cybersecurity Certificate course (Course 3 - Networks a
 
 ## What I Did
 - Analyzed tcpdump log: Client 192.51.100.15 sent UDP packet to DNS server 203.0.113.2 on Port 53 for A? yummyrecipesforme.com
+- Noted the query ID 35084 in the log, and the A? flag, which shows the client was asking for the A record (the IP address) of yummyrecipesforme.com
 - Server replied with ICMP "udp port 53 unreachable"
 
 ## Root Cause
