@@ -24,6 +24,7 @@
 
 ### 3. Connect and Protect: Networks and Network Security - In Progress
 - Topics covered so far: OSI Model and TCP/IP Model, DNS and how domains resolve, Firewalls and network segmentation
+- Lab: Analyzed DNS + ICMP traffic with tcpdump - [See Lab](../labs/dns-icmp-analysis.md)
 - Currently learning: VPN, network protocols and common network attacks
 - Key takeaway so far: Most attacks start at the network level, so understanding networks is the base of cybersecurity.
 

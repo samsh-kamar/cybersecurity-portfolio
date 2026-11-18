@@ -50,6 +50,8 @@ Details: [/certifications](./certifications)
 
 All labs are documented in the [/labs](./labs) folder.
 
+- [DNS + ICMP Traffic Analysis](labs/dns-icmp-analysis.md) - Troubleshooting DNS failure with packet capture
+
 ## 📫 Contact
 
 - GitHub: [samsh-kamar](https://github.com/samsh-kamar)
