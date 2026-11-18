@@ -8,9 +8,9 @@ I am a first-year cybersecurity student focused on defensive security, SOC opera
 
 ## 🛠️ Skills
 
-- **Blue Team:** SOC Fundamentals, SIEM, Log Analysis, Incident Response, NIST CSF
+- **Blue Team:** SOC Fundamentals, Log Analysis, Incident Response, NIST CSF
 - **Security Concepts:** CIA Triad, Encryption, Firewalls, IAM, Least Privilege, MFA
-- **Tools:** Linux, Splunk, Python, SQL, Git, VirtualBox, tcpdump - analyzing DNS / ICMP packet captures
+- **Tools:** Linux, Python, SQL, Git, VirtualBox, tcpdump - analyzing DNS / ICMP packet captures
 - **Web Security:** OWASP Top 10, SQL Injection, XSS
 
 ## 📁 Projects
