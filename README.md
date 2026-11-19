@@ -53,6 +53,7 @@ All labs are documented in the [/labs](./labs) folder.
 - [Linux File Permissions Lab](labs/linux-file-permissions.md) - Securing files with `chmod` and `chown`, and how misconfigured permissions lead to privilege escalation
 - [SQL Filtering for SOC Analysis](labs/sql-filtering-lab.md) - Filtering suspicious login attempts with SQL
 - [DNS + ICMP Traffic Analysis](labs/dns-icmp-analysis.md) - Troubleshooting DNS failure with packet capture
+- [Lab 2: SYN Flood (DoS) Attack Analysis](labs/syn-flood-dos-analysis.md) - Analyzing a TCP SYN flood that took a travel agency web server offline
 
 ## 📫 Contact
 
