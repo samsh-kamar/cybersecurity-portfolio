@@ -1,4 +1,4 @@
-# Lab: DNS and ICMP Traffic Analysis - Troubleshooting DNS Failure
+# Lab 1: DNS and ICMP Analysis
 
 ## Scenario
 User unable to resolve yummyrecipesforme.com
