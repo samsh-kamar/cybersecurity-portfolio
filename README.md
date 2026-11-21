@@ -18,7 +18,8 @@ I am a first-year cybersecurity student focused on defensive security, SOC opera
 ### 1. VoxGuard - Jan-Sahayak PS-04
 Public grievance intake prototype with duplicate detection - Built for Bihar Police Cyber Hackathon
 
-- Repo: [/projects/voxguard](./projects/voxguard/README.md)
+- Repo: https://github.com/samsh-kamar/voxguard
+- Overview: [/projects/voxguard](./projects/voxguard/README.md)
 
 ### 2. Botium Toys - Internal Security Audit
 Conducted a full internal security audit for a fictional toy company using NIST CSF.
@@ -67,8 +68,8 @@ All labs are documented in the [/labs](./labs) folder.
 - [Lab 2: SYN Flood (DoS) Attack Analysis](labs/syn-flood-dos-analysis.md) - Analyzing a TCP SYN flood that took a travel agency web server offline
 - [Lab 3: YummyRecipes Incident Response](incidents/yummyrecipes-incident-report.md) - Brute force and malware redirect investigation. See full report in /incidents/yummyrecipes-incident-report.md
 - [Lab 4: OS Hardening](labs/os-hardening-lab.md) - Hardening Ubuntu Linux in VirtualBox: unused services, UFW firewall, patching, least privilege, default accounts
-- Lab 5: Safe Practice Lab Setup - Setting up an isolated VirtualBox lab for safe cybersecurity practice, with snapshots, host-only networking, and no internet exposure for malware samples
-- Lab 6: Linux Command Line Notebook - Personal notebook of essential Linux commands for SOC work: file navigation, permissions, process monitoring, log viewing, and network troubleshooting
+- Lab 5: Safe Practice Lab Setup - Built an isolated cybersecurity lab on Ubuntu 24.04 LTS using VirtualBox. Ubuntu Server VM with host-only networking and snapshots for safe, legal practice. Repo: https://github.com/samsh-kamar/safe-practice-lab-setup
+- Lab 6: Linux Command Line Notebook - Linux CLI lab completed in 2 days - Ubuntu VM (VirtualBox) | 50+ commands | permissions with snapshots. Repo: https://github.com/samsh-kamar/linux-cli-notebook
 
 ## 📫 Contact
 

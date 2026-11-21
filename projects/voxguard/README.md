@@ -1,6 +1,6 @@
 # VoxGuard - Jan-Sahayak PS-04
 
-## Status: Private Repo - Bihar Police Cyber Hackathon
+## Status: Public - Hackathon has concluded
 
 ## What It Is
 VoxGuard is a Public Grievance Intake Prototype built for Bihar Police Cyber Hackathon, Problem Statement PS-04 Jan-Sahayak.
@@ -17,10 +17,6 @@ It helps citizens submit grievances and detects duplicate complaints so police c
 - Python - app.py in the private repo
 - Folders: /src, /data, /docs, /tests
 - Multiple commits on main branch
-
-## Why Code Is Not Here
-Source code is in a separate Private repo: github.com/samsh-kamar/voxguard
-It is kept Private as per Bihar Police Hackathon rules. I cannot make it public.
 
 ## What I Learned
 - How to build a real hackathon MVP under time pressure
