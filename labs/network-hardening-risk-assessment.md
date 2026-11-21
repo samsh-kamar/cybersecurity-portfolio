@@ -11,7 +11,7 @@ Scenario from the Google Cybersecurity Certificate course - practice activity, n
 3. Firewalls have no rules to filter inbound and outbound traffic
 4. MFA is not used
 
-## Hardening Methods Applied
+## Hardening Methods Recommended
 
 ### 1. Firewall Rule Configuration / Port Filtering
 Configure firewall rules to filter inbound and outbound traffic. Allow only necessary ports and block all else by default. Review the rules monthly.
