@@ -8,7 +8,10 @@ Ubuntu Linux running in VirtualBox
 
 ## What I Did
 - Disabled unused ports and services
-- Enforced MFA and strong passwords
+- Enforced strong passwords
 - Applied patches
 - Configured the UFW firewall and applied least privilege
 - Disabled default accounts
+
+## Concepts Covered
+- Multi-factor authentication (MFA) - studied as a concept; not configured on the VM
