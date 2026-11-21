@@ -63,6 +63,7 @@ All labs are documented in the [/labs](./labs) folder.
 - [Lab 1: DNS and ICMP Analysis](labs/dns-icmp-analysis.md) - Troubleshooting DNS failure with packet capture
 - [Lab 2: SYN Flood (DoS) Attack Analysis](labs/syn-flood-dos-analysis.md) - Analyzing a TCP SYN flood that took a travel agency web server offline
 - [Lab 3: YummyRecipes Incident Response](incidents/yummyrecipes-incident-report.md) - Brute force and malware redirect investigation. See full report in /incidents
+- [Lab 4: OS Hardening](labs/os-hardening-lab.md) - Hardening Ubuntu Linux in VirtualBox: unused services, UFW firewall, patching, least privilege, default accounts
 
 ## 📫 Contact
 
