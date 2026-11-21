@@ -48,9 +48,10 @@ Identified DNS, TCP, and HTTP protocols in the attack chain.
 
 ## 🎓 Certifications
 
-- Google Cybersecurity Professional Certificate - **In Progress** (2/8 courses completed)
+- Google Cybersecurity Professional Certificate - **In Progress** (3/8 courses completed)
   - Foundations of Cybersecurity (Google) - Completed
   - Play It Safe: Manage Security Risks (Google) - Completed
+  - Connect and Protect: Networks and Network Security (Google) - Completed - Grade: 97.5% Module 1, 95% Module 2, 100% Module 3, 90% Module 4, 100% Portfolio Activity (NIST CSF)
 
 ### Additional Course
 

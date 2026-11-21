@@ -1,6 +1,6 @@
 # Google Cybersecurity Certificate - Course Notes
 
-## Status: In Progress (2/8 Courses Completed)
+## Status: In Progress (3/8 Courses Completed)
 
 ### 1. Foundations of Cybersecurity - Completed
 - Credential ID: Z31U3YLLPT7H
@@ -22,11 +22,14 @@
 - Learned how to create a security audit checklist
 - Key takeaway: This course helped me complete my Botium Toys Audit.
 
-### 3. Connect and Protect: Networks and Network Security - In Progress
-- Topics covered so far: OSI Model and TCP/IP Model, DNS and how domains resolve, Firewalls and network segmentation
+### 3. Connect and Protect: Networks and Network Security - Completed
+- Grade: 97.5% Module 1, 95% Module 2, 100% Module 3, 90% Module 4, 100% Portfolio Activity (NIST CSF)
+- Topics covered: OSI Model and TCP/IP Model, DNS and how domains resolve, Firewalls and network segmentation
 - Lab: Analyzed DNS + ICMP traffic with tcpdump - [See Lab](../labs/dns-icmp-analysis.md)
-- Currently learning: VPN, network protocols and common network attacks
-- Key takeaway so far: Most attacks start at the network level, so understanding networks is the base of cybersecurity.
+- Lab 7: Network Hardening Risk Assessment - [See Lab](../labs/network-hardening-risk-assessment.md)
+- Lab 8: NIST CSF Incident Report - [See Lab](../labs/nist-csf-dos-incident-report.md)
+- Also covered: VPN, network protocols and common network attacks
+- Key takeaway: Most attacks start at the network level, so understanding networks is the base of cybersecurity.
 
 ### Additional Course
 
