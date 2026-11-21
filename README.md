@@ -37,8 +37,8 @@ Used SQL with `WHERE`, `AND`, and `OR` to filter suspicious login attempts like 
 
 - Write-up: [/labs/sql-filtering-lab.md](./labs/sql-filtering-lab.md)
 
-### 5. YummyRecipes - Security Incident Investigation
-Investigated a compromised website (yummyrecipesforme.com) using tcpdump packet analysis. Identified DNS, TCP, and HTTP protocols in the attack chain.
+### 5. YummyRecipes - Security Incident Investigation (Course Practice Scenario)
+Investigated a simulated compromised website (yummyrecipesforme.com) using tcpdump packet analysis as part of Google Cybersecurity Certificate coursework.
 
 - **Findings:** Brute force attack via default admin password, malicious JavaScript injected to prompt malware download, users redirected to fake site greatrecipesforme.com.
 - **Recommendation:** Enforce MFA/2FA, Limit login attempts, Enforce strong non-default passwords.
@@ -76,5 +76,6 @@ cybersecurity-portfolio/
 ├── projects/        # Personal security projects (e.g. VoxGuard)
 ├── certifications/  # Certification progress and notes
 ├── audits/          # Security audit reports
+├── incidents/       # Incident investigation reports
 └── README.md
 ```
