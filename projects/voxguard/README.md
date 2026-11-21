@@ -14,7 +14,7 @@ It helps citizens submit grievances and detects duplicate complaints so police c
 - Tests written for review corrections and duplicate ID bug fix
 
 ## Tech Used
-- Python - app.py in the private repo
+- Python - app.py in the VoxGuard repository
 - Folders: /src, /data, /docs, /tests
 - Multiple commits on main branch
 
