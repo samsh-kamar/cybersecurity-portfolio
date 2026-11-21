@@ -70,6 +70,7 @@ Labs are documented in this repository - most in /labs, Lab 3 (YummyRecipes) in 
 - [Lab 4: OS Hardening](labs/os-hardening-lab.md) - Hardening Ubuntu Linux in VirtualBox: unused services, UFW firewall, patching, least privilege, default accounts
 - Lab 5: Safe Practice Lab Setup - Built an isolated cybersecurity lab on Ubuntu 24.04 LTS using VirtualBox. Ubuntu Server VM with host-only networking and snapshots for safe, legal practice. Repo: https://github.com/samsh-kamar/safe-practice-lab-setup
 - Lab 6: Linux Command Line Notebook - Linux CLI lab completed in 2 days - Ubuntu VM (VirtualBox) | 50+ commands | permissions with snapshots. Repo: https://github.com/samsh-kamar/linux-cli-notebook
+- [Lab 7: Network Hardening Risk Assessment](labs/network-hardening-risk-assessment.md) - Analyzed a social media data breach with 4 vulnerabilities and recommended firewall filtering, MFA, and password policy. Write-up: /labs/network-hardening-risk-assessment.md
 
 ## 📫 Contact
 

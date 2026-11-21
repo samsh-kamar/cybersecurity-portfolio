@@ -10,5 +10,6 @@ Hands-on lab write-ups. Each lab documents the objective, commands used, observa
 - [Lab 2: SYN Flood (DoS) Attack Analysis](syn-flood-dos-analysis.md) - Analyzing a TCP SYN flood that took a travel agency web server offline. **Status: Completed**
 - [Lab 3: YummyRecipes Incident Response](../incidents/yummyrecipes-incident-report.md) - Brute force and malware redirect investigation. Full report is in /incidents/yummyrecipes-incident-report.md. **Status: Completed**
 - [Lab 4: OS Hardening](os-hardening-lab.md) - Hardening Ubuntu Linux in VirtualBox: unused services, UFW firewall, patching, least privilege, default accounts. **Status: Completed**
+- [Lab 7: Network Hardening Risk Assessment](network-hardening-risk-assessment.md) - Analyzed a social media data breach with 4 vulnerabilities and recommended firewall filtering, MFA, and password policy. **Status: Completed**
 
 Write-ups are added here as they are completed.
