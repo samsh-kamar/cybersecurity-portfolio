@@ -28,7 +28,7 @@
 - Currently learning: VPN, network protocols and common network attacks
 - Key takeaway so far: Most attacks start at the network level, so understanding networks is the base of cybersecurity.
 
-### Other Certifications
+### Additional Course
 
 **Crash Course on Python - Google - Completed**
 - Credential ID: FZN2TALBCNU2
