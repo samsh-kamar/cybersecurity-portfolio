@@ -11,5 +11,6 @@ Hands-on lab write-ups. Each lab documents the objective, commands used, observa
 - [Lab 3: YummyRecipes Incident Response](../incidents/yummyrecipes-incident-report.md) - Brute force and malware redirect investigation. Full report is in /incidents/yummyrecipes-incident-report.md. **Status: Completed**
 - [Lab 4: OS Hardening](os-hardening-lab.md) - Hardening Ubuntu Linux in VirtualBox: unused services, UFW firewall, patching, least privilege, default accounts. **Status: Completed**
 - [Lab 7: Network Hardening Risk Assessment](network-hardening-risk-assessment.md) - Analyzed a social media data breach with 4 vulnerabilities and recommended firewall filtering, MFA, and password policy. **Status: Completed**
+- [Lab 8: NIST CSF Incident Report](nist-csf-dos-incident-report.md) - Analyzed an ICMP flood DoS attack using Identify, Protect, Detect, Respond, Recover. **Status: Completed**
 
 Write-ups are added here as they are completed.
