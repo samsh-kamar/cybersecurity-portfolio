@@ -39,6 +39,7 @@ Used SQL with `WHERE`, `AND`, and `OR` to filter suspicious login attempts like 
 
 ### 5. YummyRecipes - Security Incident Investigation (Course Practice Scenario)
 Investigated a simulated compromised website (yummyrecipesforme.com) using tcpdump packet analysis as part of Google Cybersecurity Certificate coursework.
+Identified DNS, TCP, and HTTP protocols in the attack chain.
 
 - **Findings:** Brute force attack via default admin password, malicious JavaScript injected to prompt malware download, users redirected to fake site greatrecipesforme.com.
 - **Recommendation:** Enforce MFA/2FA, Limit login attempts, Enforce strong non-default passwords.
@@ -61,6 +62,7 @@ All labs are documented in the [/labs](./labs) folder.
 - [SQL Filtering for SOC Analysis](labs/sql-filtering-lab.md) - Filtering suspicious login attempts with SQL
 - [Lab 1: DNS and ICMP Analysis](labs/dns-icmp-analysis.md) - Troubleshooting DNS failure with packet capture
 - [Lab 2: SYN Flood (DoS) Attack Analysis](labs/syn-flood-dos-analysis.md) - Analyzing a TCP SYN flood that took a travel agency web server offline
+- [Lab 3: YummyRecipes Incident Response](incidents/yummyrecipes-incident-report.md) - Brute force and malware redirect investigation. See full report in /incidents
 
 ## 📫 Contact
 
